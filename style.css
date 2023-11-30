@@ -5,6 +5,4 @@ h1{
 }
 body {background: rgb(241, 237, 237);
 }
-<p>color: blueviolet;
-text-align: center;
-font-size: 45px;<p>
+p{ font-size: 30px;}
